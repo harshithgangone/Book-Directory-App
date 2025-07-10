@@ -11,7 +11,7 @@ app.use(cors());
 app.use(express.json());
 
 // MongoDB connection
-const MONGODB_URI = 'mongodb+srv://harshithmongo:HARSHAMDB1234@cluster0.kkwkg.mongodb.net/bookdirectory';
+const MONGODB_URI = '';
 
 mongoose.connect(MONGODB_URI)
   .then(() => console.log('Connected to MongoDB'))
