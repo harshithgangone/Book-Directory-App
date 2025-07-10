@@ -103,9 +103,3 @@ Feel free to fork and submit pull requests. For major changes, please open an is
 
 ---
 
-## 📄 License
-
-[MIT](LICENSE)
-
----
-```
